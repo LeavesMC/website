@@ -14,6 +14,9 @@ i18n
     interpolation: {
       escapeValue: false,
     },
+    react: {
+      useSuspense: false,
+    },
     resources: {
       "en-US": {
         translation: enUS,
